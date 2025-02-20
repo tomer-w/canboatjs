@@ -5,3 +5,4 @@ ios_canboat.js
 .nyc_output
 lib/coverage
 
+.vscode/launch.json
